@@ -1,0 +1,2 @@
+The functionality of git is cool!
+Learning to add to staging area and committing with git :)
